@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Print the addition of all arguments."""
 if __name__ == "__import__":
     import sys
     total = 0
