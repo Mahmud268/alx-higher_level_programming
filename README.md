@@ -1,1 +1,1 @@
-This repository will contain projects in high level language
+Learning to program on high level language
